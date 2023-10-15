@@ -91,7 +91,7 @@ button{
   background-color: #FFFFFF87;
 }
 .home:hover{
-  font-size: 46px;
+  font-size: 36px;
 }
 .music{
   position: fixed;
@@ -134,21 +134,21 @@ button{
 }
 .home_txt{
   position: fixed;
-  bottom: 1vh;
+  bottom: 3vh;
   left: 3.4vh;
 }
 .music_txt{
   position: fixed;
-  bottom: 1vh;
+  bottom: 3vh;
   left: 18vh;
 }
 .report_txt{
   position: fixed;
-  bottom: 1vh;
+  bottom: 3vh;
   left: 32vh;
 }
 .about_txt{
   position: fixed;
-  bottom: 1vh;
-  right: 3vh;
+  bottom: 3vh;
+  right: 2vh;
 }
