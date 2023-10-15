@@ -1,0 +1,154 @@
+body{
+  background-image:url('background.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: black;
+}
+button{
+  background-color: #FF7D00;
+  width: 100px;
+  height: 25px;
+  color: white;
+  border-color: red;
+}
+.musvid{
+  background-image:url(inter.png);
+  width: 300px;
+  height: 160px;
+  border-color: gray;
+}
+.top{
+  position: fixed;
+  top: 0vh;
+  left: 0vh;
+  background-color: black;
+  width: 320px;
+  height: 70px;
+  box-shadow: 0 0 2px gray;
+}
+.text_logo{
+  position: fixed;
+  top: 2vh;
+  left: 2vh;
+}
+.dev_n{
+  position: fixed;
+  top: 7vh;
+  left: 2vh;
+}
+.instagram_ic{
+  position: fixed;
+  top: 1vh;
+  right: 2vh;
+  font-size: 45px;
+}
+.new_trend_txt{
+  position: static;
+  top: 15vh;
+  left: 0vh;
+  background-color: #000000AB;
+  box-shadow: 0 0 5px black;
+  border: 0%;
+}
+.top_music{
+  position: static ;
+  background-color: #000000AB;
+  box-shadow: 0 0 5px black;
+  left: 0vh;
+}
+.bottom{
+  position: fixed;
+  bottom: 0vh;
+  left: 0vh;
+  background-color: #000000C9;
+  width: 320px;
+  height: 75px;
+  box-shadow: 0 0 20px black;
+}
+.home{
+  position: fixed;
+  bottom: 8vh;
+  left: -3vh;
+  background-color: transparent;
+  color: white;
+  padding: 15px 16px;
+  font-size: 35px;
+  border: none;
+}
+.playing{
+  position: static;
+  bottom: 0vh;
+  color: white;
+  background-color: #FFFFFF38;
+  font-size: 25px;
+  width: 100px;
+  border: none;
+  border-radius: 55%;
+  box-shadow: 0 0 5px white;
+}
+.playing:hover{
+  background-color: #FFFFFF87;
+}
+.home:hover{
+  font-size: 46px;
+}
+.music{
+  position: fixed;
+  bottom: 8vh;
+  left: 12vh;
+  background-color: transparent;
+  color: white;
+  padding: 15px 16px;
+  font-size: 35px;
+  border: none;
+}
+.music:hover{
+  font-size: 36px;
+}
+.bug{
+  position: fixed;
+  bottom: 8vh;
+  left: 27vh;
+  background-color: transparent;
+  color: white;
+  padding: 15px 16px;
+  font-size: 35px;
+  border: none;
+}
+.bug:hover{
+  font-size: 36px;
+}
+.about{
+  position: fixed;
+  bottom: 8vh;
+  right: -4vh;
+  background-color: transparent;
+  color: white;
+  padding: 15px 16px;
+  font-size: 35px;
+  border: none;
+}
+.about:hover{
+  font-size: 36px;
+}
+.home_txt{
+  position: fixed;
+  bottom: 1vh;
+  left: 3.4vh;
+}
+.music_txt{
+  position: fixed;
+  bottom: 1vh;
+  left: 18vh;
+}
+.report_txt{
+  position: fixed;
+  bottom: 1vh;
+  left: 32vh;
+}
+.about_txt{
+  position: fixed;
+  bottom: 1vh;
+  right: 3vh;
+}
